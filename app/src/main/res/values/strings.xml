@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Personality Test</string>
+    <string name="textview">TextView</string>
+    <string name="option1">Option1</string>
+    <string name="personality_test">Personality Test</string>
+    <string name="next">Next</string>
+    <string name="option2">Option2</string>
+    <string name="option3">Option3</string>
+    <string name="reset">Reset</string>
+    <string name="design">design</string>
+</resources>
