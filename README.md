@@ -6,5 +6,5 @@
 
 # About the App 
 There are 10 personality based question with 3 options <br/> 
-After giving the choices for the 10 MCQ a score is  <br/> 
+After giving the answers for those 10 MCQ a score is  <br/> 
 generated accordingly.
